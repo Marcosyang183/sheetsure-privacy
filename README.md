@@ -1,6 +1,6 @@
-# Excel Compare Workspace · Privacy Policy
+# SheetSure · Privacy Policy
 
-Public privacy policy and help pages for Excel Compare Workspace, a Chrome extension by Marcos Yang.
+Public privacy policy and help pages for SheetSure, a Chrome extension by Marcos Yang.
 
 ## Privacy policy
 

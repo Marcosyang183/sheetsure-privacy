@@ -1,10 +1,10 @@
-# Excel Compare Workspace · Privacy Policy
+# SheetSure · Privacy Policy
 
 Effective November 12, 2026 · Version 1.0.0
 
 ## Scope
 
-This policy applies to Excel Compare Workspace version 1.0.0, a Chrome extension provided by Marcos Yang. It compares, fills and validates Excel files explicitly selected by the user. No account is required.
+This policy applies to SheetSure version 1.0.0, a Chrome extension provided by Marcos Yang. It compares, fills and validates Excel files explicitly selected by the user. No account is required.
 
 ## Data processed on your device
 
